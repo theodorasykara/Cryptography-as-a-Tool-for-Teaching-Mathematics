@@ -8,30 +8,6 @@ The implementation was carried out in **SageMath 9.3**, using its Notebook (Jupy
 
 ---
 
-## Directory Structure
-
-Cryptography-in-Education/
-├── Elementary/
-│ ├── Caesar_algorithm.ipynb
-│ ├── modular_all.ipynb
-│ └── Z_n.ipynb
-│
-├── Junior High School/
-│ ├── Affine_Cipher.ipynb
-│ ├── ΜΚΔ_Δραστηριότητα_1.ipynb
-│ ├── ΜΚΔ_Δραστηριότητα_2.ipynb
-│ ├── Πολλαπλασιαστικός_Αντίστροφος_Δραστηριότητα.ipynb
-│ ├── Πρώτοι_Δραστηριότητα_1.ipynb
-│ ├── Πρώτοι_Δραστηριότητα_2.ipynb
-│ └── Σχετικά_Πρώτοι_Δραστηριότητα_1.ipynb
-│
-├── High School/
-│ └── [Coming Soon]
-│
-└── README.md
-
----
-
 ## Objectives
 
 - Integrate elementary number theory and modular arithmetic into mathematics instruction.
@@ -87,18 +63,6 @@ The materials can be used for classroom teaching, self-guided learning, or in te
 All notebooks have been tested using SageMath 9.3 on Windows 10.
 
 ---
-
-## Sample Views
-
-### Top-Level Folder Organization
-![Folder Structure](./screenshots/folder_structure.png)
-
-### Elementary Notebooks
-![Elementary](./screenshots/elementary_notebooks.png)
-
-### Junior High School Activities
-![Junior High](./screenshots/junior_high_school.png)
-
 
 ## License
 

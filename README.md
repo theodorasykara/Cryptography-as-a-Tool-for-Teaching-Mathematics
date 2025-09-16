@@ -1,6 +1,6 @@
 # Cryptography as a Tool for Teaching Mathematics
 
-## MSc Thesis — HOU / School of Science and Technology / Master in Information Systems (PLS)
+## MSc Thesis - HOU / School of Science and Technology / Master in Information Systems (PLS)
 
 This repository contains the implementation of an MSc thesis project titled **"Cryptography as a Tool for Teaching Mathematics"**. The study explores how fundamental cryptographic algorithms and number theory can support the teaching of mathematics across different educational levels, using the open-source mathematics software **SageMath**.
 

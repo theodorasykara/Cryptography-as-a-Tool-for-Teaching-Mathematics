@@ -58,7 +58,7 @@ The materials can be used for classroom teaching, self-guided learning, or in te
 1. Download the Windows installer: [SageMath 9.3 - v0.6.3](https://mirrors.mit.edu/sage/win/index.html)
 2. Install SageMath by following the official installation guide.
 3. Launch the **Notebook App (Jupyter)** from the SageMath start menu.
-4. Open the relevant `.ipynb` file from the appropriate subfolder.
+4. Open the relevant file from the appropriate subfolder.
 
 All notebooks have been tested using SageMath 9.3 on Windows 11.
 

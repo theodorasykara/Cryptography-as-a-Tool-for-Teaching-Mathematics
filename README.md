@@ -32,7 +32,7 @@ Each notebook is mapped to core mathematical and cryptographic content relevant 
 - Multiplicative inverses and their properties
 - Prime and relatively prime numbers
 
-### High School (planned)
+### High School 
 - RSA cryptosystem and modular exponentiation
 - Euler’s theorem and φ(n)
 - Introduction to Public Key Infrastructure (PKI)

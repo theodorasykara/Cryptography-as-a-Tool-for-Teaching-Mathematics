@@ -15,6 +15,7 @@ Cryptography-in-Education/
 │ ├── Caesar_algorithm.ipynb
 │ ├── modular_all.ipynb
 │ └── Z_n.ipynb
+│
 ├── Junior High School/
 │ ├── Affine_Cipher.ipynb
 │ ├── ΜΚΔ_Δραστηριότητα_1.ipynb
@@ -23,10 +24,11 @@ Cryptography-in-Education/
 │ ├── Πρώτοι_Δραστηριότητα_1.ipynb
 │ ├── Πρώτοι_Δραστηριότητα_2.ipynb
 │ └── Σχετικά_Πρώτοι_Δραστηριότητα_1.ipynb
+│
 ├── High School/
 │ └── [Coming Soon]
+│
 └── README.md
-
 
 ---
 

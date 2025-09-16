@@ -60,7 +60,7 @@ The materials can be used for classroom teaching, self-guided learning, or in te
 3. Launch the **Notebook App (Jupyter)** from the SageMath start menu.
 4. Open the relevant `.ipynb` file from the appropriate subfolder.
 
-All notebooks have been tested using SageMath 9.3 on Windows 10.
+All notebooks have been tested using SageMath 9.3 on Windows 11.
 
 ---
 
